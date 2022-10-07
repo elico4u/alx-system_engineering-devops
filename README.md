@@ -1,1 +1,4 @@
-Shell, basics project
+#!/bin/bash
+
+"My shell project"
+
