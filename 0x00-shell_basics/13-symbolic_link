@@ -1,2 +1,2 @@
 #!/bin/bash
-echo __ls__ > ./
+ln __ls_ > ./
